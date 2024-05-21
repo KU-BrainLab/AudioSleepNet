@@ -1,5 +1,5 @@
 # AudioSleepNet
 
->**Cheol-Hui Lee, Min-Kyung Jung, Hwa-Yeon Lee and Dong-Joo Kim**
+>**Cheol-Hui Lee <sup>1</sup> , Min-Kyung Jung <sup>1</sup>, Hwa-Yeon Lee <sup>1</sup> and Dong-Joo Kim**
 
 **Full code coming soon^^**
